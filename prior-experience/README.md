@@ -8,16 +8,19 @@ These are the files needed for the JS Study Group. The curriculum for this group
 
 ## Resources
 
-* Create an account on [Cloud9](https://c9.io/) (see Creating Workspace below for more info)
+* Create an account on [Cloud9](https://c9.io/), follow instructions for [Setting Up Your Workspace](#setting-up-your-workspace)
 * Create an account on [CodeAcademy](http://www.codeacademy.com)
 * Install the text editor [Sublime Text](http://www.sublimetext.com)
 * Use Google Chrome or Firefox
 * **Book**: *Professional JavaScript for Web Developers*
+* [Meetup Assignments]{#meetup-assigments}
 
 ## An Important Message
 To get the most of this study guide, type out code examples that you find in the book in your browser console to see first-hand what it does. You can also try to modify the code and see what the results you get.
 
-## Weekly Assignments
+## <a id="#setting-up-your-workspace"></a>Setting Up Your Workspace
+
+## <a id="#meetup-assigments"></a>Meetup Assignments
 
 **Note** - **We will be meeting weekly.**
 
