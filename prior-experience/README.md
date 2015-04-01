@@ -1,5 +1,4 @@
 # Learning JavaScript Study Group at Delphic
---------------------------------------------
 
 These are the files needed for the JS Study Group. The curriculum for this group is based off of the "How to Learn JavaScript Properly" blog post on [http://javascriptissexy.com](javascriptissexy.com).
 
