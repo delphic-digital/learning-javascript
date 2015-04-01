@@ -1,5 +1,4 @@
 # Learning JavaScript Study Group at Delphic
---------------------------------------------
 
 These are the files needed for the JS Study Group. The curriculum for this group is based off of the "How to Learn JavaScript Properly" blog post on [http://javascriptissexy.com](javascriptissexy.com).
 
@@ -11,7 +10,6 @@ These are the files needed for the JS Study Group. The curriculum for this group
 
 * Create an account on [Cloud9](https://c9.io/), follow instructions for [Setting Up Your Workspace](#setting-up-your-workspace)
 * Create an account on [CodeAcademy](http://www.codeacademy.com)
-* Install the text editor [Sublime Text](http://www.sublimetext.com)
 * Use Google Chrome or Firefox
 * **Book**: *Beginning JavaScript*
 * [Meetup Assignments](#meetup-assignments)
