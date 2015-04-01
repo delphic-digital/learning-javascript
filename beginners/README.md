@@ -9,7 +9,7 @@ These are the files needed for the JS Study Group. The curriculum for this group
 
 ## Resources
 
-* Create an account on [Cloud9](https://c9.io/), follow instructions for [Setting Up Your Workspace](Setting Up Your Workspace)
+* Create an account on [Cloud9](https://c9.io/), follow instructions for [Setting Up Your Workspace](##Setting Up Your Workspace)
 * Create an account on [CodeAcademy](http://www.codeacademy.com)
 * Install the text editor [Sublime Text](http://www.sublimetext.com)
 * Use Google Chrome or Firefox
