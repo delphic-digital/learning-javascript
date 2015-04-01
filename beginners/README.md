@@ -11,7 +11,6 @@ These are the files needed for the JS Study Group. The curriculum for this group
 * Create an account on [Cloud9](https://c9.io/), follow instructions for [Setting Up Your Workspace](#setting-up-your-workspace)
 * Create an account on [CodeAcademy](http://www.codeacademy.com)
 * Use Google Chrome or Firefox
-* **Book**: *Beginning JavaScript*
 * [Meetup Assignments](#meetup-assignments)
 
 ## An Important Message
