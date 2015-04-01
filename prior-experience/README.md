@@ -21,7 +21,7 @@ To get the most of this study guide, type out code examples that you find in the
 
 ## <a id="#meetup-assignments"></a>Meetup Assignments
 
-**Note** - **We will be meeting weekly.**
+**Note** - **We will be meeting weekly. JDM and JConn will be mentoring for the study groups.**
 
 **For each meetup:**
 * If needed, complete assignments in your cloud9 workspace.

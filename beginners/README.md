@@ -20,66 +20,53 @@ To get the most of this study guide, type out code examples that you find in the
 
 ## <a id="#meetup-assignments"></a>Meetup Assignments
 
-**Note**- **We will be meeting every other week.**
+**Note** - **We will be meeting every other week.**
 
 **For each meetup:**
 * If needed, complete assignments in your cloud9 workspace.
 * Make note of something you found interesting or you didn't understand to discuss with the group.
 
-### Meetup 1
-
-**Making a Website with HTML and CSS (if applicable); Read Intro to JavaScript**
+### Meetup 1 Variables, Data Types - Mentors TD / DOK
 
 1. Codecademy.com: If you do not already know HTML and CSS, complete the [Web Fundamentals](http://www.codecademy.com/tracks/web) Track on Codecademy.
 2. Codecademy.com: Then follow the [Make a Website](http://www.codecademy.com/skills/make-a-website) track to make your first little website, using what you learned above.
-3. *Beginning JavaScript*: Read Chapter 1 (Introduction to JavaScript and the Web) and Chapter 2 (Data Types and Variables).
+3. Read [JavaScript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics) (intro, hello world, variables, data types)
 
 
-### Weeks 3 & 4 - April 30th
+### Meetup 2 Comments, Operators - Mentors TD / DOK
 
-1. *Beginning JavaScript*: Read Chapter 3 (Decisions, Loops, and Functions).
-2. Codecademy.com: Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through these sections: "Introduction to JavaScript," "Functions," "‘For' Loops in JavaScript," "‘While' Loops in JavaScript," and "Control Flow."
-3. *Beginning JavaScript*: Read Chapter 4 (Common Mistakes, Debugging, and Error Handling).
-
-
-### Weeks 5 & 6 - May 7th
-
-**Learn JavaScript Objects, the Browser Object Model (BOM), and Events; Learn jQuery**
-
-1. *Beginning JavaScript*: Read Chapter 5 (JavaScript — An Object- Based Language).
-2. JavaScriptIsSexy.com: Read the article, [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-3. Codecademy.com: Work through the last three sections of the Codecademy JavaScript track: "Data Structures," "Objects 1," and "Objects 2."
+1. Read [Code Comments](http://www.codecademy.com/glossary/javascript/code-comments) and [Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
+2. Codecademy.com: Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through the section: "Introduction to JavaScript"
 
 
-### Weeks 7 & 8 - May 14th
+### Meetup 3 Functions - Mentors TD / DOK
 
-1. *Beginning JavaScript*: Read Chapter 6 (Programming the Browser).
-2. *Beginning JavaScript*: Read Chapter 15 (JavaScript Frameworks), and stop just after you complete this section: "Digging Deeper Into jQuery".
-3. Codecademy.com: Work through the entire [jQuery Track](http://www.codecademy.com/tracks/jquery) on Codecademy.
-
-### Weeks 9 & 10 - May 28th
-
-**HTML Forms and Frames; JavaScript Strings; Build Your First Interactive Website**
-
-1. *Beginning JavaScript*: Read Chapter 7 (HTML Forms: Interacting with the User).
-2. *Beginning JavaScript*: Read Chapter 8 (Windows and Frames).
-3. *Beginning JavaScript*: Read Chapter 9 (String Manipulation).
-4. *Beginning JavaScript*: Read Chapter 10 (Date, Time, and Timers).
-5. *Beginning JavaScript*: Read Chapter 11 (Storing Information: Cookies).
-6. Codecademy.com: Now, make your first cool website. Work through the entire [Make an Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website) track on Codecademy.
+1. Read [Functions](http://www.codecademy.com/glossary/javascript/functions) 
+2. Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through these sections: "Introduction to Functions in JS", "Build 'Rock, Paper, Scissors'"
 
 
-### Weeks 11 & 12 - June 11th
+### Meetup 4 For Loops - Mentors TD / DOK
 
-**JavaScript "this," Variable Scope, and Hoisting, the DOM, JavaScript XML, and AJAX**
-
-1. JavaScriptIsSexy.com: Read the post [JavaScript Variable Scope and Hoisting Explained](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
-2. JavaScriptIsSexy.com: Read the post [Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
-3. *Beginning JavaScript*: Read Chapter 12 (Dynamic HTML and the W3C Document Object Model).
-4. *Beginning JavaScript*: Read Chapter 14 (Ajax).
+1. Read [For Loops](http://www.codecademy.com/glossary/javascript/loops#for-loops)
+2. Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through these sections: "Introduction to For Loops in JS", "Search Text for Your Name"
 
 
-### Week 13 & 14 - June 25th FINAL WEEKS OF WORK!!!!
+### Meetup 5 While Loops - Mentors JDM / JConn / DOK
+
+1. Read [While Loops](http://www.codecademy.com/glossary/javascript/loops#while-loops)
+2. Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through these sections: "Introduction to While Loops in JS", "Dragon Slayer!"
+
+
+### Meetup 5 Control Flow - Mentors JDM / JConn / DOK
+
+1. Read [If Statements](http://www.codecademy.com/glossary/javascript/if-statement), [Switch Statements](http://www.codecademy.com/glossary/javascript/switch-statements), and [Logical Operators](http://www.codecademy.com/glossary/javascript/booleans#boolean-logical-operators)
+2. Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through these sections: "More on Control Flow in JS", "Choose Your Own Adventure 2!"
+
+
+### Meetup 6 Data Structures - Mentors JDM / JConn
+
+1. Read [Arrays](http://www.codecademy.com/glossary/javascript/arrays), [Objects](http://www.codecademy.com/glossary/javascript/objects)
+2. Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through these sections: "Arrays and Objects in JS", "Contact List"
 
 **Build a Real-World JavaScript Quiz Application**
 
@@ -98,7 +85,13 @@ var allQuestions = [{question: "Who is Prime Minister of the United Kingdom?", c
 * You can ask for help in the comments below or preferably on Stack Overflow. You will likely to get a prompt and accurate answer on Stack Overflow.
 
 
-### Final Meetup - July 9th
+### Meetup 7 Objects - Mentors JDM / JConn
+
+1. Read [Objects](http://www.codecademy.com/glossary/javascript/objects)
+2. Work through the [JavaScript Track](http://www.codecademy.com/tracks/javascript) on Codecademy. Specifically, work through these sections: "Intro to Objects 1", "Building an Address Book"
+
+
+### Meetup 8: Final Meetup!
 
 1. Go over final reading / assignments
 2. Study Group Celebration Postmortem!!!!
