@@ -139,6 +139,7 @@ To get the most of this study guide, type out code examples that you find in the
 
 ### Meetup 17: Final Meetup!
 
-1. Study Group Celebration Postmortem!!!!
-2. Discuss Pros and Cons of the Group
+1. Go over final reading / assignments
+2. Study Group Celebration Postmortem!!!!
+3. Discuss Pros and Cons of the Group
 
