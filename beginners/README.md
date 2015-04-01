@@ -13,7 +13,6 @@ These are the files needed for the JS Study Group. The curriculum for this group
 * Create an account on [CodeAcademy](http://www.codeacademy.com)
 * Install the text editor [Sublime Text](http://www.sublimetext.com)
 * Use Google Chrome or Firefox
-
 * **Book**: *Beginning JavaScript*
 
 ## An Important Message
@@ -21,15 +20,15 @@ To get the most of this study guide, type out code examples that you find in the
 
 ## Weekly Assignments
 
-**Note**- All dates listed below are tentative and are subject to change. 
+**Note**- **We will be meeting every other week.**
 
-**For each week:**
+**For each meetup:**
 * If needed, complete assignments in your cloud9 workspace.
 * Make note of something you found interesting or you didn't understand to discuss with the group.
 
-### Weeks 1 & 2 - April 16th
+### Meetup 1
 
-**Making a Website with HTML and CSS; Learn JavaScript Data Types, Functions, Control Flow, and Loops**
+**Making a Website with HTML and CSS (if applicable); Read Intro to JavaScript**
 
 1. Codecademy.com: If you do not already know HTML and CSS, complete the [Web Fundamentals](http://www.codecademy.com/tracks/web) Track on Codecademy.
 2. Codecademy.com: Then follow the [Make a Website](http://www.codecademy.com/skills/make-a-website) track to make your first little website, using what you learned above.
@@ -101,7 +100,6 @@ var allQuestions = [{question: "Who is Prime Minister of the United Kingdom?", c
 
 ### Final Meetup - July 9th
 
-1. Discuss week 7's reading
+1. Go over final reading / assignments
 2. Study Group Celebration Postmortem!!!!
-3. Discuss Pros and Cons of the Group.
-
+3. Discuss Pros and Cons of the Group

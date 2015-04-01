@@ -12,7 +12,6 @@ These are the files needed for the JS Study Group. The curriculum for this group
 * Create an account on [CodeAcademy](http://www.codeacademy.com)
 * Install the text editor [Sublime Text](http://www.sublimetext.com)
 * Use Google Chrome or Firefox
-
 * **Book**: *Professional JavaScript for Web Developers*
 
 ## An Important Message
@@ -22,7 +21,7 @@ To get the most of this study guide, type out code examples that you find in the
 
 **Note** - **We will be meeting weekly.**
 
-**For each week:**
+**For each meetup:**
 * If needed, complete assignments in your cloud9 workspace.
 * Make note of something you found interesting or you didn't understand to discuss with the group.
 
