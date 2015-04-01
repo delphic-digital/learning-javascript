@@ -134,7 +134,7 @@ To get the most of this study guide, type out code examples that you find in the
 
 ### Meetup 16
 
-1. Read Chapter 24 (Best Practices)
+1. Read Chapter 24 (Best Practices / Code Structuring)
 2. Continue testing problems in the browser and your code editor.
 
 
