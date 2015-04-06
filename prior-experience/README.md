@@ -8,7 +8,7 @@ These are the files needed for the JS Study Group. The curriculum for this group
 
 ## Resources
 
-* Create a [GitHub account](https://github.com/)
+* Create or use an existing [GitHub](https://github.com/) or [BitBucket](http://bitbucket.org) account
 * Create an account on [Cloud9](https://c9.io/), set up your workspace
 * Create an account on [CodeAcademy](http://www.codeacademy.com)
 * Use Google Chrome or Firefox
