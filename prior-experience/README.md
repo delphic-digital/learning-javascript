@@ -48,44 +48,57 @@ To get the most of this study guide, type out code examples that you find in the
 
 ### Meetup 4
 
-1. Read chapters 5 (Reference Types).
-2. If you haven't already, finish the [Try jQuery course](http://try.jquery.com/).
+1. Read Chapter 5 (Reference Types).
+2. Continue the [Try jQuery course](http://try.jquery.com/).
 
 
 ### Meetup 5
 
-1. Read Chapter 6 (Object Oriented Programming)
-2. Continue testing problems in the browser and your code editor.
-3. **Project:** Follow the steps at the ["Your First Project - A Dynamic Quiz"](http://javascriptissexy.com/how-to-learn-javascript-properly/#Your_First_ProjectA_Dynamic_Quiz) section of the "How to Learn JavaScript Properly" blog post. Have a link to your finished quiz ready for week 5's meetup.
+1. Begin working on your **Quiz Project**: Follow the steps at the ["Your First Project - A Dynamic Quiz"](http://javascriptissexy.com/how-to-learn-javascript-properly/#Your_First_ProjectA_Dynamic_Quiz) section of the "How to Learn JavaScript Properly" blog post.
 
 
 ### Meetup 6
 
-1. Read Chapter 7 (Functional Expressions), Chapter 8 (Browser Object Model)
+1. Read Chapter 5 (Function and Primitive Wrapper types, and Single Built-in Objects).
+2. Continue to work on the Quiz.
 
 
 ### Meetup 7
 
-1. Read Chapter 9 (client detection), Chapter 10 (DOM), Chapter 11 (DOM extensions)
+1. Read Chapter 6 (Object Creation).
+2. Continue to work on the Quiz.
 
 
 ### Meetup 8
 
-1. Read Chapter 12 (DOM levels 2 & 3)
-2. Continue testing problems in the browser and your code editor.
+1. Read Chapter 6 (Inheritance).
+2. Continue to work on the Quiz.
 
 
 ### Meetup 9
 
-1. Read Chapter 13 (Events)
-2. Continue testing problems in the browser and your code editor.
+1. Read Chapter 7 (Functional Expressions).
+2. Continue to work on the Quiz.
 
 
 ### Meetup 10
 
-1. Read Chapter 14 (DOM levels 2 & 3)
-2. Continue testing problems in the browser and your code editor.
-3. Work on making improvements to your quiz, here are some suggestions:
+1. Read Chapter 8 (Browser Object Model).
+2. Continue to work on the Quiz.
+
+
+### Meetup 11
+
+1. Read Chapter 9 (Client Detection).
+2. Continue to work on the Quiz.
+
+
+### Meetup 12
+
+1. Read Chapter 10 (DOM).
+2. At this point, you should have a functioning, stylized quiz to present to the group.
+
+Work on making improvements to your quiz, here are some suggestions:
 
 * Add client-side data validation: make sure the user answers each question before proceeding to the next question.
 * Add a "Back" button to allow the user to go back and change her answer. The user can go back up to the first question. For the questions that the user has answered already, be sure to show the radio button selected, so that the user is not forced to answer the questions again, which she has completed.
@@ -96,48 +109,83 @@ To get the most of this study guide, type out code examples that you find in the
 * Use cookies to remember the user, and show a "Welcome, First Name" message when the user returns to the quiz.
 
 
-### Meetup 11
-
-1. Read Chapter 16 (HTML5 Scripting), Chapter 17 (Error Handing and Debugging)
-2. Continue testing problems in the browser and your code editor.
-
-
-### Meetup 12
-
-1. Read Chapter 18 (XML in JavaScript), Chapter 20 (JSON)
-2. Continue testing problems in the browser and your code editor.
-
-
 ### Meetup 13
 
+1. Read Chapter 11 (DOM extensions).
+2. Continue to work on the Quiz.
+
+
+### Meetup 14
+
+1. Read Chapter 12 (DOM levels 2 & 3: Read up to and NOT includeing "Traversals" pg. 408).
+2. Continue to work on the Quiz.
+
+
+### Meetup 15
+
+1. Read Chapter 12 (DOM levels 2 & 3: Start on pg. 408 "Traversals" and read the remainder of the chapter).
+2. Continue to work on the Quiz.
+
+
+### Meetup 16
+
+1. Read Chapter 13 (Events: Read up to and NOT inlcuding "Keyboard and Text Events" pg. 471).
+2. Continue to work on the Quiz.
+
+
+### Meetup 17
+
+1. Read Chapter 13 (Events: Start on pg. 471 "Keyboard and Text Events" and read the remainder of the chapter).
+2. Continue to work on the Quiz.
+
+
+### Meetup 18
+
+1. Read Chapter 16 (HTML5 Scripting), Chapter 17 (Error Handing and Debugging).
+2. Continue to work on the Quiz.
+
+
+### Meetup 19
+
+1. Read Chapter 18 (XML in JavaScript)
+2. Continue to work on the Quiz.
+
+
+### Meetup 20
+
+1. Read Chapter 20 (JSON).
+2. Continue to work on the Quiz.
+
+
+### Meetup 21
+
 1. Read Chapter 21 (AJAX and COMET)
-2. Continue testing problems in the browser and your code editor.
-3. Continue to improve you quiz, suggestions:
+2. Continue to improve you quiz, suggestions:
 
 * Use Twitter Bootstrap for the entire page layout, including the quiz elements to make it look more professional. As an added bonus, use the tabs user interface component from Twitter Bootstrap and show 4 different quizzes, one on each tab.
 * Learn Handlebars.js and add Handlebars.js templating to the quiz. You should no longer have any HTML in your JavaScript code. Your quiz is getting more advanced bit by bit.
 * Keep a record of all the users who take the quiz and show each user how her score ranks amongst the scores from other quiz takers.
 
 
-### Meetup 14
+### Meetup 22
 
 1. Read Chapter 22 (Advanced Techniques)
-2. Continue testing problems in the browser and your code editor.
+2. Continue to work on the Quiz.
 
 
-### Meetup 15
+### Meetup 23
 
 1. Read Chapter 23 (Offline Applications and Client-Side Storage)
-2. Continue testing problems in the browser and your code editor.
+2. Continue to work on the Quiz.
 
 
-### Meetup 16
+### Meetup 24
 
 1. Read Chapter 24 (Best Practices / Code Structuring)
-2. Continue testing problems in the browser and your code editor.
+2. Continue to work on the Quiz.
 
 
-### Meetup 17: Final Meetup!
+### Meetup 25: Final Meetup!
 
 1. Go over final reading / assignments
 2. Study Group Celebration Postmortem!!!!
